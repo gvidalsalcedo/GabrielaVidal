@@ -1,6 +1,6 @@
 print("hola mundo");
-size(500,800);
-background(100);
+size(600,600);
+background(0);
 
 //RGB
-background(0,0,0);
+background(240,150,128);
